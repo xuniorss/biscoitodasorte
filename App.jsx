@@ -88,3 +88,4 @@ const styles = StyleSheet.create({
         color: '#DD7B22'
     }
 });
+// developed by xuniorss
